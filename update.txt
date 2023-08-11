@@ -1,0 +1,8 @@
+Student ID: 002 | Edited Fields: Name: gdhfj -> ashwin | Date/Time: 2023-07-18 19:27:13
+Student ID: 008 | Edited Fields: Name: sumklk -> sumukh | Date/Time: 2023-07-18 19:31:26
+Student ID: 003 | Deleted | Date/Time: 2023-07-18 19:55:08
+Student ID: 002 | Edited Fields: Address: kzcld -> chikbanavara, Previous School: skit -> st marys | Date/Time: 2023-07-18 19:55:58
+Student ID: 004 | Edited Fields: Address: slkdjflkds -> Bonemill, Previous School: skit -> Redhills | Date/Time: 2023-07-18 19:56:52
+Student ID: 008 | Edited Fields: Previous School: jkdhfkjhaf -> euro school | Date/Time: 2023-07-18 19:57:23
+Student ID: 0010 | Edited Fields: Student ID: 0010 -> 010, Address: asjdskfj -> Tumkur, Previous School: skit -> narayana school | Date/Time: 2023-07-18 19:58:05
+Student ID: 007 | Edited Fields: Name: manja 2 -> Manjunath, Date of Birth: dsdsfdaffd -> 12/09/2009, Address: fafa -> dodabalapura, Contact Info: fadkfadfffafafsf -> 9087678976, Previous School: dsfdf -> B.G.S | Date/Time: 2023-07-18 19:59:26

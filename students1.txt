@@ -1,0 +1,8 @@
+002,ashwin,12/09/2000,chikbanavara,909099090,st marys
+004,mapl,23/09/2009,Bonemill,787899098,Redhills
+008,sumukh,12/09/2000,bangalore,8900989098,euro school
+010,manja,12/09/2003,Tumkur,8909878909,narayana school
+007,Manjunath,12/09/2009,dodabalapura,9087678976,B.G.S
+001,Aashwath,12/06/2013,Vidyaranyapura,6790909087,ravishankar school
+003,kundan,17/09/2018,mattikere,7890989098,Chaitanya school
+005,Rakesh,15/09/2004,yeshwanthpur,8909098767,B.T.L School
