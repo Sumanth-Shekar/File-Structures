@@ -31,6 +31,6 @@ The School Admission System is a Python-based graphical user interface (GUI) app
 5. Generate a report to obtain student data and update history.
 
 
- Feel free to contribute to this project by submitting issues or pull requests. For questions or assistance, contact [sumanthshekar7@example.com]
+ Feel free to contribute to this project by submitting issues or pull requests. For questions or assistance, contact [sumanthshekar7@gmail.com]
 
 
